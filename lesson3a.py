@@ -10,13 +10,13 @@ print(type(paidloan))
 # comparison operators: Theu are used to compare two or more statments and they usually return a boolean answer
 
 number1 = 2
-nnumber2 =5
-print("is number greater than number 2?", number1 > nnumber2)
-print("is number less than number 2?", number1 > nnumber2)
-print("isnumber1 greater than or equal to number 2?", number1 >= nnumber2)
-print("isnumber1 greater than or equal to number 2?", number1 <= nnumber2)
-print("is number1 equal to number2?", number1 == nnumber2)
-print("is number1 equal to number2?", number1 != nnumber2)
+number2 =5
+print("is number greater than number 2?", number1 > number2)
+print("is number less than number 2?", number1 > number2)
+print("is number1 greater than or equal to number 2?", number1 >= number2)
+print("is number1 greater than or equal to number 2?", number1 <= number2)
+print("is number1 equal to number2?", number1 == number2)
+print("is number1 equal to number2?", number1 != number2)
 
 # Logical operators
 # Logical AND
