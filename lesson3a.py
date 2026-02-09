@@ -1,6 +1,7 @@
 # Boolen - This is date type that evaluates either to true or false
 
 isRaining = False
+
 print(isRaining)
 print(type(isRaining))
 

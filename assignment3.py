@@ -21,4 +21,4 @@ def calculate_nhif(gross_salary):
         return 1500.00
     else:
         return 2000.00
-    
+    print("yourmonthly nhifcontribution")

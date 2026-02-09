@@ -14,4 +14,4 @@ else:
     if age >= 18 and weight > 50:
         print("Can donate")
     else:
-        print("Not possible")
+        print("Cannot")
