@@ -49,6 +49,5 @@ for number in range (201,149,-3):
     print("===================================")
 # create a python program that prints the leap years in between 2000 and 2024
 for year in range(2000,2005):
-    if year % 4 == 0 and (year % 100!= 0 or  year % 400)
-    
+
         print(year)

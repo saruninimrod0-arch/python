@@ -1,9 +1,9 @@
 # Research on python functions both with parameters and without parameters.
 # without parameters
 def greet():
-    print("Hello, World!")
+    print("Hello, Nimrod!")
 
-greet()  # Output: Hello, World!
+greet()  # Output: Hello, Nimrod!
 
 
 # without parameters
