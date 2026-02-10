@@ -50,4 +50,4 @@ else:
 
 
    for teams in player:["teams"]
-   print(team)
+   print(teams)
